@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    background-color: yellowgreen;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:darkgreen;
+}
+
+.img{
+    width: 300px;
+    height: 300px;
+    justify-content: center;
+}
+.organizacao{
+    
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    justify-content: center;
+}
+
+HR{
+    width: 1000px;
+    height: 10px;
+    background-color: yellow;
+}
